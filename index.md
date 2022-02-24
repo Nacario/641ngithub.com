@@ -4,7 +4,7 @@
 # Games for low end PC
 Theese games are games that are still fun to play and does not require too much storage, too much ram and a high quality PC. Thees games can be played in a low end laptop and still be fun to play.
 
-## Sims
+## **Sims**
 ![sims pic](https://user-images.githubusercontent.com/99864628/154627371-662fc632-4c11-4554-9aeb-5e5c17248529.PNG)
 
 The Sims is a series of life simulation video games developed by Maxis and published by Electronic Arts. The franchise has sold nearly 200 million copies worldwide, and it is one of the best-selling video game series of all time.
@@ -21,36 +21,22 @@ Subnautica is an open-world survival action-adventure video game developed and p
 Direct download link: [Subnautica](https://store.steampowered.com/app/264710/Subnautica/)
 
 ## Terraria
+![terraria](https://user-images.githubusercontent.com/99864628/155474765-bf4cd8d9-033e-4851-8cb6-d1f7d26e31dd.PNG)
+
+Terraria is an action-adventure sandbox game developed by Re-Logic. The game was first released for Microsoft Windows on May 16, 2011, and has since been ported to several other platforms. The game features exploration, crafting, building, painting, and combat with a variety of creatures in a procedurally generated 2D world. Terraria received generally positive reviews, with praise given to its sandbox elements. The game had sold over 35 million copies by the end of 2020.
+
+Direct download: [Terraria](https://terraria.org)
+
+## Stardew valley
+![stardew valley](https://user-images.githubusercontent.com/99864628/155475222-e4482457-da3c-4dc9-8ef8-a74ac33a444a.PNG)
+
+Stardew Valley is a farming simulation game primarily inspired by the Harvest Moon video game series. At the start of the game, players create a character, who becomes the recipient of a plot of land and a small house once owned by their grandfather in a small town called Pelican Town.
+
+## Minecraft
+![minecraft](https://user-images.githubusercontent.com/99864628/155475700-711439b0-30be-484b-8a62-3349b3316496.PNG)
+
+Minecraft is a video game in which players create and break apart various kinds of blocks in three-dimensional worlds. The game's two main modes are Survival and Creative. In Survival, players must find their own building supplies and food. They also interact with blocklike mobs, or moving creatures.
+
+Direct download: [Minecraft](https://www.minecraft.net/en-us/download)
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nacario/641ngithub.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
