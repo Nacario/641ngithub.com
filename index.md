@@ -14,6 +14,14 @@ The games in the Sims series are largely sandbox games, in that they lack any de
 Direct Download link: [Sims](https://www.ea.com/games/the-sims/the-sims-4)
 
 ## Subnautica
+![subnautica](https://user-images.githubusercontent.com/99864628/155474200-03324ed8-ca76-4b27-b4b0-91c7fdfb9ede.PNG)
+
+Subnautica is an open-world survival action-adventure video game developed and published by Unknown Worlds Entertainment. Players are free to explore the ocean on the alien planet 4546B, after their spaceship, the Aurora, crashes on the planet's surface. The player must collect resources and face creatures to survive.
+
+Direct download link: [Subnautica](https://store.steampowered.com/app/264710/Subnautica/)
+
+## Terraria
+
 
 ### Markdown
 
